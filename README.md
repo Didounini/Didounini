@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Didounini
+- 👋 Hi, I’m here to share
 - 👀 I’m interested in power query and power pivot 
 - 🌱 I’m currently learning tax
 - 💞️ I’m looking to collaborate on financial working group using powerpivot or power query
